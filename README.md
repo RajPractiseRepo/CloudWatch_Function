@@ -1,2 +1,1 @@
-# CloudWatch_Function
-cloudwatch function 
+This repo contains my Cloud Watch project.
